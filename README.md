@@ -1,1 +1,1 @@
-# Performance_Analysis_of_Full_Fine-Tuning_vs_LoRA_Fine-Tuning
+Enhanced the FLAN-T5 model's ROUGE-1 score by 110% through full fine-tuning whereas LoRA fine-tuning achieved a 100% improvement while utilizing only 1.41% of the total trainable parameters required by full fine-tuning, demonstrating significant efficiency in the use of compute resources during training.
